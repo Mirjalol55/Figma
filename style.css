@@ -1,0 +1,65 @@
+.how__it__works{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+p{
+    color: rgba(64, 66, 66, 1);
+}
+.section__img{
+    position: relative;
+    top: 0px;
+}
+.section__text{
+    position: relative;
+    bottom:5px;
+    line-height: 27px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+
+}
+.main{
+    display: flex;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.box{
+    width: 410px;
+    height: 240px;
+    background-color:rgba(204, 240, 230, 1);
+}
+.box__text{
+    line-height: 22px;
+    position: relative;
+    left: 35px;
+    top: 35px;
+}
+
+.box__link {
+     color: rgba(72, 105, 88, 1);
+     text-decoration: none;
+     position: relative;
+     left: 35px;
+     top: 35px;
+}    
+.sec2{
+    display: flex;
+    justify-content: space-between;
+}
+
+h2{
+    position: relative;
+    right: 200px;
+    font-size: 35px;
+    line-height: 45px;
+
+}
+.sec2__text{
+    position: relative;
+    right: 200px;
+    font-size: 20px;
+    line-height: 30px;
+}
