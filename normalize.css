@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 body,h1,h2,h3,h4,h5,h6,li{
     margin: 0;
     padding: 0;
@@ -25,3 +26,16 @@ body{
     margin: 0 auto;
 }
 >>>>>>> 8ea1e8e262235ff517d466cee3930c8eb6c275fc
+=======
+body{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+}
+a{
+   text-decoration: none;
+}
+>>>>>>> 9ee6c8096fcd1e634527f17243596cba7d79f059

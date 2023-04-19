@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .container{
     width: 100%;
     max-width: 1140px;
@@ -222,3 +223,72 @@ main hr{
   bottom: 10px;
 }
 >>>>>>> 14583cab0344e5f07c8abfbf64ece1bfda109c7b
+=======
+footer{
+    width: 100%;
+    max-width: 1140px;
+    display: flex;
+    position: relative;
+    top: 100px;
+}
+.footer__left{
+    width: 500px;
+    height: 500px;
+    display: block;
+}
+.footer__left hr{
+    width: 100px;
+    border: 1px solid #58A9A5;
+    height: 0px;
+    position: relative;
+    right: 70px;
+    top: 40px;
+}
+.footer__left h1{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: sans-serif;
+    position: relative;
+    left: 100px;
+}
+.footer__left p{
+    color: #486958;
+    font-family: sans-serif;
+    font-size: 20px;
+    position: relative;
+    left: 100px;
+}
+form{
+    width: 700px;
+    height: 350px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    display: block;
+    border: 1px solid #486958;
+}
+input{
+    border: none;
+    position: relative;
+    left: 20px;
+    margin: 30px 30px;
+    font-size: 17px;
+    outline: none;
+}
+.footer__right hr{
+    width: 600px;
+}
+button{
+    width: 150px;
+    height: 50px;
+    border: none;
+    color: white;
+    background-color: #58A9A5;
+    border-radius: 20px 20px 20px 0px;
+    position: relative;
+    top: 50px;
+    left: 220px;
+}
+    
+
+>>>>>>> 9ee6c8096fcd1e634527f17243596cba7d79f059
